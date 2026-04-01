@@ -1,7 +1,7 @@
 # Databricks notebook source
 
-# MAGIC %pip install -e ..
-# MAGIC %restart_python
+#MAGIC %pip install -e ..
+#MAGIC %restart_python
 
 # COMMAND ----------
 # from pathlib import Path
